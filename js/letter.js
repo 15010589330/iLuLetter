@@ -50,8 +50,8 @@ $("#open").click(function () {
 		new Typed('.letter', {
 			strings: [
 				"^1000",
-				content.recipient + "<br><br>" +
-				content.text + "<br><br><p style='float:right; display:block; width:" +
+				content.recipient + "<br><br>" +"<p style='text-align:center;"+
+				content.text +"</p>"+ "<br><br><p style='float:right; display:block; width:" +
 				content.sign + "px;'>^1000" + content.from + "</p>"
 			],
 			typeSpeed: 100,

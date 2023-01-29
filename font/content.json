@@ -1,10 +1,10 @@
 {
     "to": "To&nbsp;&nbsp;王娇",
     "from": "王潇",
-    "recipient": "落款",
-    "sender": "王潇",
+    "recipient": "",
+    "sender": "Tips",
     "title": "eLovuLetter",
     "stamp": "./img/stamp.png",
     "bgm": "./bgm/bgm.mp3",
-    "text": "人面花轿111111111"
+    "text": "国破山河在，<br>城春草木深。<br>感时花溅泪，<br>恨别鸟惊心。<br>"
 }
